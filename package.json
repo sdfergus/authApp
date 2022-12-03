@@ -1,0 +1,24 @@
+{
+  "name": "authapp",
+  "version": "1.0.0",
+  "description": "MBA Backend HW- Passport-local (Node.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdfergus/authApp.git"
+  },
+  "author": "Shandira Ferguson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdfergus/authApp/issues"
+  },
+  "homepage": "https://github.com/sdfergus/authApp#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
+  }
+}
